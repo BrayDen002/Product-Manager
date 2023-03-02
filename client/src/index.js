@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+//takes info from App file and connects it to this stylesheet. Which in turn is also linked to 'index.css' which is where we will customize the page.
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
